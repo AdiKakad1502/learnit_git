@@ -1,0 +1,21 @@
+*{
+  box-sizing: border-box;  
+}
+title{
+    text-align:center;
+}
+#op{
+    text-align: left;
+    width:150px;
+    height: auto;
+}
+table{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+}
+tr{
+    border: none;
+}
